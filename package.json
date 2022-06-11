@@ -1,0 +1,15 @@
+{
+    "name": "AndroidNote-master",
+    "version": "1.0.0",
+    "description": "android note record",
+    "main": "index.js",
+    "author": "Jungle68 <335891510@qq.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "vuepress": "^2.0.0-beta.47"
+    },
+    "scripts": {
+        "docs:dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs"
+    }
+}
