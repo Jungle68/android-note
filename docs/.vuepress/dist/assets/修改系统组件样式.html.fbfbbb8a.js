@@ -1,0 +1,1 @@
+const B={key:"v-0b9259c8",path:"/BasicKnowledge/%E4%BF%AE%E6%94%B9%E7%B3%BB%E7%BB%9F%E7%BB%84%E4%BB%B6%E6%A0%B7%E5%BC%8F.html",title:"\u4FEE\u6539\u7CFB\u7EDF\u7EC4\u4EF6\u6837\u5F0F",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"BasicKnowledge/\u4FEE\u6539\u7CFB\u7EDF\u7EC4\u4EF6\u6837\u5F0F.md"};export{B as data};

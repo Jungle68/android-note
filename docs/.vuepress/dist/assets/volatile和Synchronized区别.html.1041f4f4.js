@@ -1,0 +1,1 @@
+const e={key:"v-5d7e898e",path:"/JavaKnowledge/volatile%E5%92%8CSynchronized%E5%8C%BA%E5%88%AB.html",title:"volatile\u548CSynchronized\u533A\u522B",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"JavaKnowledge/volatile\u548CSynchronized\u533A\u522B.md"};export{e as data};

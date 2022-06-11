@@ -1,0 +1,1 @@
+const a={key:"v-3062487e",path:"/AdavancedPart/ApplicationId%20vs%20PackageName.html",title:"ApplicationId vs PackageName",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"AdavancedPart/ApplicationId vs PackageName.md"};export{a as data};

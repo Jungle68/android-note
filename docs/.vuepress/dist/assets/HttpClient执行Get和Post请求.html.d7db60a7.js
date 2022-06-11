@@ -1,0 +1,1 @@
+const t={key:"v-96e6bd64",path:"/BasicKnowledge/HttpClient%E6%89%A7%E8%A1%8CGet%E5%92%8CPost%E8%AF%B7%E6%B1%82.html",title:"HttpClient\u6267\u884CGet\u548CPost\u8BF7\u6C42",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"BasicKnowledge/HttpClient\u6267\u884CGet\u548CPost\u8BF7\u6C42.md"};export{t as data};

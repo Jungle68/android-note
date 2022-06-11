@@ -1,0 +1,1 @@
+const e={key:"v-da46e808",path:"/BasicKnowledge/%E8%87%AA%E5%AE%9A%E4%B9%89%E7%8A%B6%E6%80%81%E6%A0%8F%E9%80%9A%E7%9F%A5.html",title:"\u81EA\u5B9A\u4E49\u72B6\u6001\u680F\u901A\u77E5",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"BasicKnowledge/\u81EA\u5B9A\u4E49\u72B6\u6001\u680F\u901A\u77E5.md"};export{e as data};

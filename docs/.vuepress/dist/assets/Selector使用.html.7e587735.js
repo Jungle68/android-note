@@ -1,0 +1,1 @@
+const e={key:"v-e7a0bf12",path:"/BasicKnowledge/Selector%E4%BD%BF%E7%94%A8.html",title:"Selector\u4F7F\u7528",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"BasicKnowledge/Selector\u4F7F\u7528.md"};export{e as data};

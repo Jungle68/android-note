@@ -1,0 +1,1 @@
+const t={key:"v-e7050716",path:"/BasicKnowledge/%E8%AF%BB%E5%8F%96%E7%94%A8%E6%88%B7logcat%E6%97%A5%E5%BF%97.html",title:"\u8BFB\u53D6\u7528\u6237logcat\u65E5\u5FD7",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"BasicKnowledge/\u8BFB\u53D6\u7528\u6237logcat\u65E5\u5FD7.md"};export{t as data};

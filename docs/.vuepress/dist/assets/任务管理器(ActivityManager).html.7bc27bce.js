@@ -1,0 +1,1 @@
+const e={key:"v-00b4fe2e",path:"/BasicKnowledge/%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86%E5%99%A8(ActivityManager).html",title:"\u4EFB\u52A1\u7BA1\u7406\u5668(ActivityManager)",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"BasicKnowledge/\u4EFB\u52A1\u7BA1\u7406\u5668(ActivityManager).md"};export{e as data};

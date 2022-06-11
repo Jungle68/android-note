@@ -1,0 +1,1 @@
+const e={key:"v-f6fdbeda",path:"/BasicKnowledge/Parcelable%E5%8F%8ASerializable.html",title:"Parcelable\u53CASerializable",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"BasicKnowledge/Parcelable\u53CASerializable.md"};export{e as data};

@@ -224,9 +224,9 @@ ObjectAnimator.ofPropertyValuesHolder(myView, pvhX, pvyY).start();
 
 ### `ViewPropertyAnimator`
 
-`* <p>This class is not constructed by the caller, but rather by the View whose properties
+`* This class is not constructed by the caller, but rather by the View whose properties
  * it will animate. Calls to {@link android.view.View#animate()} will return a reference
- * to the appropriate ViewPropertyAnimator object for that View.</p>`
+ * to the appropriate ViewPropertyAnimator object for that View.`
 
 如果需要对一个View的多个属性进行动画可以用ViewPropertyAnimator类，该类对多属性动画进行了优化，会合并一些invalidate()来减少刷新视图，该类在3.1中引入。
 
@@ -242,9 +242,9 @@ myView.animate().x(50f).y(100f);
 ### `XML`中定义
 
 在`res/animator`中定义对应的动画`xml`       
-- <animator>  对应代码中的ValueAnimator
-- <objectAnimator>  对应代码中的ObjectAnimator
-- <set>  对应代码中的AnimatorSet 
+- animator  对应代码中的ValueAnimator
+- objectAnimator  对应代码中的ObjectAnimator
+- set  对应代码中的AnimatorSet 
 例如:       
 
 ```xml

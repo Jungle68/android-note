@@ -1,0 +1,1 @@
+const e={key:"v-34a2b424",path:"/BasicKnowledge/XmlPullParser.html",title:"XmlPullParser",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"BasicKnowledge/XmlPullParser.md"};export{e as data};

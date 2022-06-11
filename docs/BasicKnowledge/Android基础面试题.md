@@ -349,8 +349,8 @@ Android基础面试题
 	一。步骤
 	第一步：继承Service类
 	public class SMSService extends Service { }
-	第二步：在AndroidManifest.xml文件中的<application>节点里对服务进行配置:
-	<service android:name=".DemoService" />
+	第二步：在AndroidManifest.xml文件中的`<application>`节点里对服务进行配置:
+	`<service android:name=".DemoService" />`
 	二。Context.startService()和Context.bindService
 	服务不能自己运行，需要通过调用Context.startService()或Context.bindService()方法启动服务。这两个方法都可
 	以启动Service，但是它们的使用场合有所不同。         
@@ -510,6 +510,8 @@ Android基础面试题
 	说明一：aidl文件的位置不固定，可以任意
 	然后定义自己的MyService类，在MyService类中自定义一个内部类去继承RemoteService.stub这个内部类，实现get方法。在onBind方法中返回这个内部类的对象，系统会自动将这个对象封装成IBinder对象，传递给他的调用者。
 	其次需要在AndroidManifest.xml文件中配置MyService类，代码如下：
+
+	```java
 	<!-- 注册服务 -->  
 	<service android:name=".MyService"> 
 	   <intent-filter> 
@@ -517,6 +519,8 @@ Android基础面试题
 		   <action android:name="net.blogjava.mobile.aidlservice.RemoteService" /> 
 		</intent-filter> 
 	</service>
+	```
+
 	为什么要指定调用AIDL服务的ID,就是要告诉外界MyService这个类能够被别的进程访问，只要别的进程知道这个ID，正是有了这个ID,B工程才能找到A工程实现通信。
 	说明：AIDL并不需要权限
 	B工程：
@@ -616,7 +620,4 @@ Android基础面试题
 	Client端调用IPC接口本地代理。
 
 ---
-
-- 邮箱 ：charon.chui@gmail.com  
-- Good Luck!
 

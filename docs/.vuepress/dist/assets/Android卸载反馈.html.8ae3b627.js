@@ -1,0 +1,1 @@
+const t={key:"v-121d11d8",path:"/AdavancedPart/Android%E5%8D%B8%E8%BD%BD%E5%8F%8D%E9%A6%88.html",title:"Android\u5378\u8F7D\u53CD\u9988",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"AdavancedPart/Android\u5378\u8F7D\u53CD\u9988.md"};export{t as data};
