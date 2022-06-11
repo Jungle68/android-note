@@ -1,0 +1,1 @@
+const e={key:"v-3bf03e4c",path:"/BasicKnowledge/ScrollingTabs.html",title:"ScrollingTabs",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654949937e3,contributors:[{name:"Jungle68",email:"335891510@qq.com",commits:1}]},filePathRelative:"BasicKnowledge/ScrollingTabs.md"};export{e as data};

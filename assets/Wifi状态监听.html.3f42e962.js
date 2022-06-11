@@ -1,0 +1,1 @@
+const e={key:"v-69cb538f",path:"/BasicKnowledge/Wifi%E7%8A%B6%E6%80%81%E7%9B%91%E5%90%AC.html",title:"Wifi\u72B6\u6001\u76D1\u542C",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654949937e3,contributors:[{name:"Jungle68",email:"335891510@qq.com",commits:1}]},filePathRelative:"BasicKnowledge/Wifi\u72B6\u6001\u76D1\u542C.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-1a66fb46",path:"/BasicKnowledge/Scroller%E7%AE%80%E4%BB%8B.html",title:"Scroller\u7B80\u4ECB",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654949937e3,contributors:[{name:"Jungle68",email:"335891510@qq.com",commits:1}]},filePathRelative:"BasicKnowledge/Scroller\u7B80\u4ECB.md"};export{e as data};
